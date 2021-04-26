@@ -1,3 +1,7 @@
 # Ufit
 
-Ufit is a app coded with React JS. It records the total calories based on users' daily intake.
+Breif overview:
+
+Ufit is a useful app to record the total calories based on users' daily intake!
+
+
