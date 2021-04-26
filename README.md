@@ -9,6 +9,6 @@ More features coming soon!
 Frontend: 
 Backend:
 ```
-<strong>React JS<strong\h> framework is used to build this app.
+<strong/>React JS</strong> framework is used to build this app.
 MongoDB 
 ```
