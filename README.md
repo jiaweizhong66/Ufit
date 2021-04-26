@@ -7,6 +7,7 @@ More features coming soon!
 
 ## Technologies:
 Frontend: 
+
 Backend:
 ```
 React JS framework is used to build this app.
